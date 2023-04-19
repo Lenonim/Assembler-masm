@@ -9,3 +9,4 @@
 | Удаление минимального слвоа  | clear assembler\delete_min_word| программа на ассемблере|
 | Обработка текста             | assembler insertion\sim        | ассемблерная вставка   |
 | Инверстный порядов слов      | clear assembler\invert_str     | программа на ассемблере|
+| Удаление пробелов            | clear assembler\space_deleter  | программа на ассемблере|
